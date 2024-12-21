@@ -14,7 +14,8 @@
 
  # Github stats
 <p>
-  http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZumalyXD&theme=dracula
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZumalyXD&theme=dracula)
 </p>
 <p>
 
